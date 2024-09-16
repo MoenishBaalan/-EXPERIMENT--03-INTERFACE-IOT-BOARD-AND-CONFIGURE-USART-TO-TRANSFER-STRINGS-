@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/19f88eea-e606-4b99-b9e9-c50d31943bc6)
 ###  DATE: 16.09.2024
 ###  NAME: MOENISH BAALAN G
 ###  ROLL NO :212220220057

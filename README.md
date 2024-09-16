@@ -1,9 +1,8 @@
 
-###  DATE: 
-
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  DATE: 16.09.2024
+###  NAME: MOENISH BAALAN G
+###  ROLL NO :212220220057
+###  DEPARTMENT: INFORMATION TECHNOLOGY
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
